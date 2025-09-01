@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Akhilesh Shetty G P  
  
 
----
-
 ## 🚀 About Me  
 I am a **Computer Science student (VTU, CGPA: 9.05)** passionate about **Web Development, Java-based frameworks, and AI/ML applications**.  
 I love building impactful projects, learning emerging technologies, and contributing to open-source communities.  
@@ -78,8 +76,13 @@ I love building impactful projects, learning emerging technologies, and contribu
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh_Shetty_G_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-shetty-g-p-3526362b7)  
-📧 **akhileshshettygp@gmail.com**  
+<p >
+  <a href="https://www.linkedin.com/in/akhilesh-shetty-g-p-3526362b7" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" height="25"/>
+    <b>Akhilesh Shetty G P</b>
+  </a>
+</p>  
+
 
 ---
 
